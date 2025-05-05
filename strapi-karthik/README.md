@@ -43,12 +43,12 @@ Register your admin account to proceed.
 
 1. Go to **Content-Type Builder**
 
-2. Create a new **Collection Type** named: `Article`
+2. Create a new **Collection Type** named: `karthik-Article`
 
 3. Add the following fields:
 
-   * `title` (Text, required)
-   * `content` (Rich Text (Blocks))
+   * `title` (tasknomber)
+   * `content` (details)
    * `boolean` (true or false)
 
 4. Save the schema and allow Strapi to restart.
