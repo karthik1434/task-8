@@ -11,6 +11,8 @@ content (details)
 Save the schema and allow Strapi to restart.
 
 done or not (boolean)
+
+
 🧑‍🔧 Configure Public Permissions
 Go to: Settings > Roles > Public
 
@@ -31,5 +33,5 @@ Fill in the fields, and click Publish
 
 
 
-GET http://localhost:1337/api/articles
+GET http://localhost:1337/api/karthik-articles
 
