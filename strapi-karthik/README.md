@@ -49,7 +49,7 @@ Register your admin account to proceed.
 
    * `title` (Text, required)
    * `content` (Rich Text (Blocks))
-   * `cover_image` (Media, single)
+   * `boolean` (true or false)
 
 4. Save the schema and allow Strapi to restart.
 
