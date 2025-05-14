@@ -1,0 +1,23 @@
+{
+    "kind": "collectionType",
+    "collectionName": "karthik_articles",
+    "info": {
+        "singularName": "karthik-article",
+        "pluralName": "karthik-articles",
+        "displayName": "karthik-article"
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "attributes": {
+        "Task_number": {
+            "type": "string"
+        },
+        "details": {
+            "type": "blocks"
+        },
+        "done_or_not": {
+            "type": "boolean"
+        }
+    }
+}
